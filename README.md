@@ -1,7 +1,7 @@
 [![Project Banner](./src//images/readme-project-banner-01.png)](https://light-dark-mode-tooglee.vercel.app/)
 ---
 # 🚀 **Counter Display App**  
-> _A website where it shows a digital clock. TIMEZONE = EAT._
+> _A website where user can change between light and dark mode, to see the magic_
 ---
 
 ## 🔥 **Features**
