@@ -6,6 +6,8 @@ function App() {
   return (
     <div className="App">
       <LightDarkModeToogle />
+      <h1>Hello World</h1>
+      <p>This is a simple dark/light mode toggle example.</p>
     </div>
   );
 }
