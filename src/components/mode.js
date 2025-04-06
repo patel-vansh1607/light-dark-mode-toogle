@@ -6,7 +6,7 @@ const LightDarkModeToogle = () => {
     return(
         <div className="main-div">
             <div className="toogle">
-
+            <input className='dark_mode_input' type='checkbox' id='darkmode-toggle' />
             </div>
         </div>
     )
